@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76dd5602-d79e-45c7-bd26-792c41fb81b9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/riddler.iml" afterPath="$PROJECT_DIR$/.idea/riddler.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="76dd5602-d79e-45c7-bd26-792c41fb81b9" name="Default" comment="" />
     <ignored path="riddler.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="76dd5602-d79e-45c7-bd26-792c41fb81b9" time="1367827011135" ignored="false" />
