@@ -14,8 +14,7 @@ development:
   database: riddler_development
   pool: 5
   username: root
-  password:
-  socket: /tmp/mysql.sock
+  password: vladopen
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -26,8 +25,7 @@ test:
   database: riddler_test
   pool: 5
   username: root
-  password:
-  socket: /tmp/mysql.sock
+  password: vladopen
 
 production:
   adapter: mysql2
@@ -35,5 +33,4 @@ production:
   database: riddler_production
   pool: 5
   username: root
-  password:
-  socket: /tmp/mysql.sock
+  password: vladopen
